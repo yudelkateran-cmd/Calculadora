@@ -19,7 +19,7 @@ function iniciarCalculadora() {
         
         // A) MENU PRINCIPAL
         let opcion = prompt(
-            "--- CALCULADORA ---\n" +
+            "   CALCULADORA \n" +
             "1. Sumar\n" +
             "2. Restar\n" +
             "3. Multiplicar\n" +

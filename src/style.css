@@ -1,10 +1,10 @@
 :root {
-  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+  font-family: Cambria, Cochin, Georgia;
   line-height: 1.5;
   font-weight: 400;
 
   color-scheme: light dark;
-  color: rgba(255, 255, 255, 0.87);
+  color: rgba(234, 204, 204, 0.87);
   background-color: #242424;
 
   font-synthesis: none;
@@ -15,7 +15,7 @@
 
 a {
   font-weight: 500;
-  color: #646cff;
+  color: #0f19db;
   text-decoration: inherit;
 }
 a:hover {
@@ -70,7 +70,7 @@ button {
   font-size: 1em;
   font-weight: 500;
   font-family: inherit;
-  background-color: #1a1a1a;
+  background-color: #d6b7b7;
   cursor: pointer;
   transition: border-color 0.25s;
 }
